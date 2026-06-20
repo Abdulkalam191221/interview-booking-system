@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "admin123",
+    "id": "admin123",
+    "name": "HR Manager (Admin)",
+    "email": "hr@portal.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "_id": "user_1kyqe7730",
+    "name": "alex",
+    "email": "alex@slotsync.app",
+    "password": "12345678",
+    "role": "candidate",
+    "id": "user_1kyqe7730"
+  },
+  {
+    "_id": "user_yi9a901l3",
+    "name": "Abdul Kalam",
+    "email": "skak191221@gmail.com",
+    "password": "12345678",
+    "role": "candidate",
+    "id": "user_yi9a901l3"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "slot_initial_mock",
+    "date": "2026-06-23",
+    "startTime": "02:30 PM",
+    "endTime": "03:30 PM",
+    "timeWindow": "02:30 PM - 03:30 PM",
+    "interviewer": "Aravind Kumar (Principal Architect)",
+    "interviewType": "Managerial",
+    "mode": "Online",
+    "capacity": 3,
+    "availableSeats": 2,
+    "status": "available",
+    "bookings": [
+      {
+        "bookingId": "book_hmwe7bjd9",
+        "candidateId": "user_yi9a901l3",
+        "name": "Abdul Kalam",
+        "email": "skak191221@gmail.com",
+        "bookedAt": "2026-06-20T08:42:23.210Z"
+      }
+    ]
+  },
+  {
+    "_id": "slot_oi0jdmirc",
+    "date": "2026-08-22",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "timeWindow": "10:00 AM - 11:00 AM",
+    "interviewer": "AI/ML",
+    "interviewType": "Technical",
+    "mode": "Online",
+    "capacity": 2,
+    "availableSeats": 0,
+    "status": "Full",
+    "bookings": [
+      {
+        "bookingId": "book_eh8xyypcw",
+        "candidateId": "mock_candidate_id",
+        "email": "candidate@portal.com",
+        "bookedAt": "2026-06-20T08:26:23.011Z"
+      },
+      {
+        "bookingId": "book_u1hp114dz",
+        "candidateId": "mock_candidate_id",
+        "name": "Test Candidate",
+        "email": "candidate@portal.com",
+        "bookedAt": "2026-06-20T08:38:35.179Z"
+      }
+    ]
+  },
+  {
+    "_id": "slot_ruv6q9os8",
+    "id": "slot_ruv6q9os8",
+    "date": "2026-08-22",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "timeWindow": "10:00 AM - 11:00 AM",
+    "interviewer": "AI/ML",
+    "interviewType": "Technical",
+    "mode": "Online",
+    "capacity": 1,
+    "availableSeats": 0,
+    "status": "Full",
+    "bookings": [
+      {
+        "bookingId": "book_f7dq127w0",
+        "candidateId": "mock_candidate_id",
+        "name": "Test Candidate",
+        "email": "candidate@portal.com",
+        "bookedAt": "2026-06-20T08:38:41.410Z"
+      }
+    ]
+  },
+  {
+    "_id": "slot_ut7s60tej",
+    "id": "slot_ut7s60tej",
+    "date": "2026-06-22",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "timeWindow": "10:00 AM - 11:00 AM",
+    "interviewer": "AI/ML",
+    "interviewType": "Technical",
+    "mode": "Online",
+    "capacity": "4",
+    "availableSeats": 1,
+    "status": "Full",
+    "bookings": [
+      {
+        "bookingId": "book_n0qp4e9mn",
+        "candidateId": "mock_candidate_id",
+        "name": "Test Candidate",
+        "email": "candidate@portal.com",
+        "bookedAt": "2026-06-20T08:40:03.149Z"
+      },
+      {
+        "bookingId": "book_y5x5oixmf",
+        "candidateId": "mock_candidate_id",
+        "name": "Test Candidate",
+        "email": "candidate@portal.com",
+        "bookedAt": "2026-06-20T08:40:36.680Z"
+      },
+      {
+        "bookingId": "book_vys4nzfqz",
+        "candidateId": "mock_candidate_id",
+        "name": "Test Candidate",
+        "email": "candidate@portal.com",
+        "bookedAt": "2026-06-20T08:40:40.290Z"
+      }
+    ]
+  },
+  {
+    "_id": "slot_93xkjblaw",
+    "id": "slot_93xkjblaw",
+    "date": "2026-06-24",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "timeWindow": "10:00 AM - 11:00 AM",
+    "interviewer": "AI/ML",
+    "interviewType": "Technical",
+    "mode": "Online",
+    "capacity": 1,
+    "availableSeats": 0,
+    "status": "Full",
+    "bookings": [
+      {
+        "bookingId": "book_c0qlu73xv",
+        "candidateId": "user_yi9a901l3",
+        "name": "Abdul Kalam",
+        "email": "skak191221@gmail.com",
+        "bookedAt": "2026-06-20T07:58:00.045Z"
+      }
+    ]
+  },
+  {
+    "_id": "slot_58oj70yby",
+    "id": "slot_58oj70yby",
+    "date": "2026-07-12",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "timeWindow": "10:00 AM - 11:00 AM",
+    "interviewer": "sara jenkin",
+    "interviewType": "Technical",
+    "mode": "Online",
+    "capacity": "3",
+    "availableSeats": 2,
+    "status": "Full",
+    "bookings": [
+      {
+        "bookingId": "book_5hk5wyx8m",
+        "candidateId": "user_yi9a901l3",
+        "name": "Abdul Kalam",
+        "email": "skak191221@gmail.com",
+        "bookedAt": "2026-06-20T08:45:57.661Z"
+      }
+    ]
+  }
+]
